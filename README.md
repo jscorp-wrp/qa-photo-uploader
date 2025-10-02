@@ -1,12 +1,21 @@
 qa-photo-uploader/
+
 ├── qa_upload_form_final.html      ← 업로드용 HTML 폼
+
 ├── qa_data/                       ← JSON + 사진 저장 폴더
+
 ├── reports/                       ← Excel 리포트 저장 폴더
+
 ├── credentials.json               ← Google API 인증파일 (업로드 시 제외)
+
 ├── upload_to_gdrive.py
+
 ├── generate_excel_report.py
+
 ├── run_qa_tool.py
+
 ├── README.md                      ← 사용법 설명서
+
 
 
 # 📷 QA Photo Uploader
